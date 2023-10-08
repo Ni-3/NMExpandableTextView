@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "NMExpandableTextView"
-  spec.version      = "1.0.2"
+  spec.version      = "1.0.3"
   spec.summary      = "UITextView that shows a tappable link if the content doesn't fit the specified number of lines"
 
   spec.description  = "This textview is a subclass of UITextView that shows a tappable link if the content doesn't fit the specified number of lines."
